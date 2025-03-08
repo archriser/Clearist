@@ -7,13 +7,13 @@ No bloat. Just a to-do list that works.
 # Clyde Development To-Do List
 
 ## **Phase 1: Core Functionality (Local Storage & Task Management)**
-- [] Set up the project folder structure.  
-- [] Implement a CLI interface (`cli.py`) to handle user input.  
-- [] Create a `tasks.py` module for adding, removing, updating, and listing tasks.  
-- [] Implement a secure local storage system:  
+- [ ] Set up the project folder structure.  
+- [ ] Implement a CLI interface (`cli.py`) to handle user input.  
+- [ ] Create a `tasks.py` module for adding, removing, updating, and listing tasks.  
+- [ ] Implement a secure local storage system:  
   - Choose **SQLite (SQLCipher)** or **AES-encrypted JSON**.  
   - Encrypt before saving, decrypt only when needed.  
-- [] Implement task categories, priorities, and due dates.  
+- [ ] Implement task categories, priorities, and due dates.  
 
 ## **Phase 2: Sync Features**
 - [ ] Implement **Nextcloud Sync** (via WebDAV).  
