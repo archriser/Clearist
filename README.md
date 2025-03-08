@@ -1,10 +1,10 @@
-# Clyde - CLI todolist for developers. Minimal and no BS
+# Clearist - CLI todolist for developers. Minimal and no BS
 A simple, terminal-based to-do list for developers. Minimal, fast, and secure.  
 Syncs with Nextcloud, Google Drive, and GitHub. Encrypts tasks before storage.  
 No bloat. Just a to-do list that works.  
 
 
-# Clyde Development To-Do List
+# Clearist Development To-Do List
 
 ## **Phase 1: Core Functionality (Local Storage & Task Management)**
 - [ ] Set up the project folder structure.  
